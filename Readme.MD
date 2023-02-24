@@ -1,4 +1,5 @@
-after clone 
+# A simple calculator
 
-1.open terminal and type npm i for installing node modules
-2.then type npx react-native run-android 
+### After cloning from github
+#### 1. Open terminal and type npm i for installing node modules
+#### 2. Type npx react-native run-android 
